@@ -11,7 +11,7 @@ The application is fully responsive, ensuring a seamless user experience across 
 ![Screenshot 2024-09-09 at 5 27 28 PM (2)](https://github.com/user-attachments/assets/00ad5827-c9e6-44b4-bad9-c0fc2f7b1845)
 
 
-## Prerequisites for launching
+## Prerequisites for launching ✅
 
 1. MongoDB account
 2. React + Vite for front-end
@@ -23,6 +23,7 @@ The application is fully responsive, ensuring a seamless user experience across 
 2. Setup .env file: 
    
    MONGO_URI=your_mongo_uri
+
    PORT=8080
 
 4. Install the required dependencies: 
