@@ -1,4 +1,4 @@
-# E-tronics Store
+# E-Tronics Store
 
 ## Description
 This application serves as a product store, allowing users to create, update, and delete products. It includes a Home page and a dedicated Create Products page, with the additional feature of toggling between dark and light modes.
